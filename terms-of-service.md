@@ -29,7 +29,7 @@
 
   ## 3. Intellectual Property
 
-  The TikDrama app, including its design, software, logo, features, and branding, is owned by or licensed to ArtemisX and is protected
+  The TikDrama app, including its design, software, logo, features, and branding, is owned by or licensed to TikDrama and is protected
   by applicable intellectual property laws.
 
   You are granted a limited, revocable, non-exclusive, non-transferable license to use the app for personal use only.
@@ -71,7 +71,7 @@
 
   ## 9. Limitation of Liability
 
-  To the maximum extent permitted by law, ArtemisX will not be liable for any indirect, incidental, special, consequential, exemplary,
+  To the maximum extent permitted by law, TikDrama will not be liable for any indirect, incidental, special, consequential, exemplary,
   or punitive damages, including loss of data, loss of profits, service interruption, device issues, or inability to access content.
 
   Our total liability for any claim related to the app will be limited to the amount you paid to use the app, if any.
@@ -86,7 +86,7 @@
   - A statement that you have a good-faith belief the use is unauthorized.
   - A statement that the information you provide is accurate.
 
-  Contact: biay010105@gmail.com
+  Contact: tgiabao0603@gmail.com
 
   We may remove or restrict access to content in response to valid complaints.
 
@@ -101,7 +101,7 @@
 
   Your use of TikDrama is also governed by our Privacy Policy:
 
-  https://github.com/biay010105-cyber/TikDrama/blob/main/privacy-policy.md
+  https://tikdrama.asia/privacy.txt
 
   Please review it to understand how information is collected, used, and shared.
 
@@ -114,4 +114,4 @@
 
   If you have questions about these Terms, contact us at:
 
-  biay010105@gmail.com
+  tgiabao0603@gmail.com
